@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on any JAVA or C# project
 - 📫 How to reach me https://t.me/ghoulamMB
 <hr>
-## 🔥 Streak Stats
-<br>
 
 ## 🔥 Streak Stats
 <img src="https://github-readme-stats.vercel.app/api?username=GhoulamMB&theme=onedark">
