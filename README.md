@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GhoulamMB
-- 👀 I’m interested in JAVA development
-- 🌱 I’m currently learning C# / WPF
-- 💞️ I’m looking to collaborate on any JAVA or C# project
+- 👀 I’m interested in dotnet development
+- 🌱 I’m currently learning CI/CD
+- 💞️ I’m looking to collaborate on any JAVA, C# or Kotlin project
 - 📫 How to reach me https://t.me/ghoulamMB
 <hr>
 
