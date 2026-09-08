@@ -2,7 +2,7 @@
 - 👀 I’m interested in dotnet development
 - 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on any JAVA, C# or Kotlin project
-- 📫 How to reach me https://t.me/ghoulamMB
+- 📫 How to reach me
 <hr>
 
 ## 🔥 Streak Stats
